@@ -10,5 +10,25 @@ This repository provides an implementation and application of the Fourier Neural
 - Applications for Time-Domain-Discretization Independent Predictions : Extending FNOs to predict time-evolving phenomena in a discretization-independent manner and avoiding the limitations of fixed time-step solvers.
 - Material Signal Analysis : Using FNOs for predicting and analyzing signals and properties of materials. Insights into material behavior under different conditions using the learned mappings.
 
+### Results and Visualization
+#### FNO1D
+Function Generation and Prediction based on training on only a certain domain of time arbitrary discretization for both training and prediction.
+![Alt](1D-func_pred.png)
 
-  
+Training on only 64 and prediction on 2048 time-domain-discretization grid points
+![Alt](2048_2to4_FNO.png)
+
+#### FNO2D
+From 16x16 -> 32x32 (ZeroPadding) --> 1024x 1024<br />
+<br />
+Original rep: <br />![Alt](fno_res1.png)<br />
+<br />
+Final rep:<br /> ![Alt](fno_res2.png) <br />
+<br />
+Image Representation:<br />
+![Alt](fno_res3.png)<br />
+<br />
+<br />
+As per the paper, testing on the prediction of Navier Stoke Equation in Fluid Mechanics<br />
+![Alt](navierstoke_res1.png)<br />
+
