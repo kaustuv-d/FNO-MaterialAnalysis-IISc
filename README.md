@@ -1,4 +1,5 @@
 # FNO-MaterialAnalysis-IISc
+#### Please find the Reports here -  [Report-1](https://drive.google.com/file/d/1rzpnqA-BfP2ciUkyambSM9HsI5YbfD_q/view?usp=sharing), [Report-2](https://drive.google.com/file/d/1Yo66ljrreacHXwUuQIi4s6UoOmRiq5ye/view?usp=sharing) 
 These works are under **Prof. Akshay Joshi**, **Mechanical Engineering Department**, **IISc Bangalore**, on FNOs (Fourier Neural Networks) in multi-dimensions for material property analysis, in different circumstances. 
 Report for the works (download) - [Report](https://github.com/kaustuv-d/FNO-MaterialAnalysis-IISc/blob/main/iisc_report_2.pdf)
 
